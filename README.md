@@ -14,3 +14,7 @@ Vous trouverez des astuces, des tutos et exemples de codes qui sont bien utiles 
 ## Reduction de dimension
 
 * biplot-ACP : Exemple de code python pour obtenir un biplot ACP (avec la même apparence que R)
+
+## web scraping avec selenium
+
+* theses-fr : Exemple de code python permet de faire du web scraping sur theses.fr
